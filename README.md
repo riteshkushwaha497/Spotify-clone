@@ -8,3 +8,6 @@ Completed on 9 dec 2023 at 3:00a.m
 
 ******************************************************************************
 languages used HTML, CSS only
+******************************************************************************
+You can see this project live on 
+https://spotify-clone-phi-neon.vercel.app/
